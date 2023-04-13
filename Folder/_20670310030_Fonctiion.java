@@ -5,8 +5,8 @@ import java.util.ArrayList;
 
 public class _20670310030_Fonctiion {
 
-    static ArrayList<Integer> IndexOfMin = new ArrayList<Integer>();
-    static ArrayList<Integer> IndexOfMax = new ArrayList<Integer>();
+    static int [] IndexOfMin ; 
+    static int [] IndexOfMax ; 
     
     static int Size = _20670310030_ReadingFile.Diygram.length;
 	
@@ -44,3 +44,4 @@ public class _20670310030_Fonctiion {
 //	}
 //	
 }
+
